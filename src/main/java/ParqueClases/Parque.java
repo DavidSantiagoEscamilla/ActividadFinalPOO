@@ -1,4 +1,4 @@
-package Parque;
+package ParqueClases;
 
 public class Parque {
     private String Nombre;
