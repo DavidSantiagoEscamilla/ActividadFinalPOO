@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GuardaparqueControlador {
-        private List<Guardaparque> guardaparques;  // Lista para almacenar los guardaparques
+        private List<Guardaparque> guardaparques;  
 
     public GuardaparqueControlador() {
         this.guardaparques = new ArrayList<>();
